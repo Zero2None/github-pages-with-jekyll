@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Vi Veri Veniversum Vivus Vici
+author: Zer0
+email: _placeholder_
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Student. Programmer. Melophile. Coffee addict. Video games enthusiast. Nature lover.
+  Yield not to misfortunes. Use the hours, don’t count them.
+
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
